@@ -1,0 +1,7 @@
+.gitignore
+.idea/
+db.sqlite3
+settings.py
+*.pyc
+
+
